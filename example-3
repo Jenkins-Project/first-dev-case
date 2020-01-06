@@ -1,2 +1,6 @@
 example-3 added new file-3
+<<<<<<< HEAD
 changed by centos user
+=======
+changed by root user
+>>>>>>> 0e2b651fe8b2513616402401e5512a703c91c062
